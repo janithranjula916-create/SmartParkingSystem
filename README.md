@@ -115,7 +115,7 @@ The out folder can be generated again by compiling the project.
 
 ## Group Members
 
-- Janith Ranjula
-- Member 2 Name
-- Member 3 Name
-- Member 4 Name
+- C I PETERSON -KAHNDSE261F-002
+- R M C N B RATHNAYAKA -KAHNDSE261F-014
+- D M J R DISANAYAKA -KAHNDSE261F-015
+- H M L C WEERAKKODI -KAHNDSE261F-016
