@@ -103,7 +103,3 @@ MySQL must be started before running the system.
 MySQL Connector JAR file must be inside the lib folder.
 The out folder is not uploaded to GitHub because it contains compiled class files.
 The out folder can be generated again by compiling the project.
-
-```
-
-```
