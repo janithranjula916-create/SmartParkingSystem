@@ -40,17 +40,16 @@ The system is developed using Java Swing for the user interface and MySQL for da
 - Queue
 - Priority Queue
 - HashMap
-- LinkedList
 - Graph
 
 ## Algorithms Used
 
 - Linear Search
-- Binary Search
-- Sorting Algorithm
 - Dijkstra Algorithm
 - Queue Processing Algorithm
 - Fee Calculation Algorithm
+- Priority Queue Algorithm
+- Hash-Based Search Algorithm
 
 ## Project Structure
 
