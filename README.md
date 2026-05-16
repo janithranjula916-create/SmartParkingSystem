@@ -97,6 +97,15 @@ parking_slots
 
 ### Before running the system, import the SQL file into phpMyAdmin and start MySQL from XAMPP.
 
+## Database Import
+
+1. Open XAMPP and start Apache and MySQL.
+2. Open phpMyAdmin.
+3. Create a database named `smart_parking_db`.
+4. Import the SQL file located at:
+
+database/parking.sql
+
 ## Important
 
 MySQL must be started before running the system.
