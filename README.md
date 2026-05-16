@@ -54,20 +54,20 @@ The system is developed using Java Swing for the user interface and MySQL for da
 
 ## Project Structure
 
-```text
 SmartParkingSystem/
 ├── src/
-│   ├── models/
-│   ├── services/
-│   ├── ui/
-│   ├── utils/
-│   └── Main.java
+│ ├── models/
+│ ├── services/
+│ ├── ui/
+│ ├── utils/
+│ └── Main.java
 ├── lib/
 ├── database/
 ├── .gitignore
 └── README.md
 
-How to Run
+## How to Run
+
 Step 1: Start XAMPP
 
         Start Apache and MySQL.
@@ -84,23 +84,26 @@ Step 4: Run the Project
 
         java -cp "out;lib/*" Main
 
-Database
+## Database
 
 The system uses MySQL database tables for:
 
-users
+### users
+
 parking_records
 exit_records
 reservations
 parking_slots
 
-Before running the system, import the SQL file into phpMyAdmin and start MySQL from XAMPP.
+### Before running the system, import the SQL file into phpMyAdmin and start MySQL from XAMPP.
 
-Important
+## Important
 
 MySQL must be started before running the system.
 MySQL Connector JAR file must be inside the lib folder.
 The out folder is not uploaded to GitHub because it contains compiled class files.
 The out folder can be generated again by compiling the project.
+
+```
 
 ```
